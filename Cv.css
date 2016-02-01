@@ -1,0 +1,87 @@
+div{
+    border-radius:10px;
+}
+header{
+    background-image:url(img/school.png);
+    background-attachment:fixed;
+    background-repeat:repeat;
+    width:100%;
+    border-radius:20px;
+    border:2px solid black;
+    
+}
+main{
+    background-image:url(img/img2.png);
+    background-attachment:fixed;
+    background-repeat:repeat;
+    width:100%;
+    text-align:center;
+    border-radius:20px;
+    border:2px solid black;
+}
+footer{
+    background-attachment:fixed;
+    background-image:url(img/img4.png);
+    background-repeat:repeat;
+    width:100%;
+    clear:both;
+    text-align:center;
+    border-radius:20px;
+    border:2px solid black;
+}
+.conteneur{
+    width:100%;
+    max-width:960px;
+    padding:10px 10px 10px 10px;
+    margin:auto;
+    overflow:auto;
+    font-family:Serif,Verdana;
+    
+}
+img{
+    height:35%;
+    width:35%;
+    position:relative;
+    border-radius:10px;
+}
+.info{
+    float:right;
+    position:relative;
+    width:45%;
+    margin-right:30px;
+}
+.colonne_1{
+    width:30%;
+    float:left;
+    padding:10px 10px 10px 10px;
+    box-shadow:2px 2px 2px black;
+}
+.colonne_2{
+    width:30%;
+    float:right;
+    margin-right:18px;
+    padding:10px 10px 10px 10px;
+    box-shadow:2px 2px 2px black;
+   
+}
+.colonne_3{
+    width:30%;
+    overflow:auto;
+    margin:auto;
+    padding:10px 10px 10px 10px;
+    box-shadow:2px 2px 2px black;
+}
+.carte{
+    width:50%;
+    float:left;
+}
+.contact{
+    width:40%;
+    float:right;
+    margin-right:18px;
+    margin-left:30px;
+}
+    
+    
+    
+
